@@ -1,0 +1,13 @@
+body{
+    align-items: center;
+    background-color: #fff3e5;
+}
+
+#logo{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    padding-top: 200px;
+}
+
+
